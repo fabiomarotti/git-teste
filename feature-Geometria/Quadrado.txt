@@ -1,3 +1,5 @@
 criando e nao comitado na branch quadrado
 
 commitado em Geometria
+
+alterado em branch quadrado, mas nao comitado.
